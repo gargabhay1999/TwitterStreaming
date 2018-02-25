@@ -28,6 +28,7 @@ API-3 exports the above filtered result into CSV file. Here user can give filena
  2. cd into the current project directory
  3. open jupyter-notebook
  4. open the file named `BackEnd_TwitterStreaming_AbhayGarg.ipynb`
+ 
  **5. API to trigger twitter stream and store it in json form**![enter image description here](https://raw.githubusercontent.com/gargabhay1999/TwitterStreaming/master/Images/Screenshot%20from%202018-02-25%2023-34-28.png)
  
  6. Tweet Details in json format![enter image description here](https://raw.githubusercontent.com/gargabhay1999/TwitterStreaming/master/Images/Screenshot%20from%202018-02-25%2023-34-46.png)
